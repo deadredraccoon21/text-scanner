@@ -1,4 +1,4 @@
 Flask==2.2.3
-easyocr==1.4.4
+easyocr==1.4.2  # or any available version like 1.3.2
 gunicorn==20.1.0
 Werkzeug==2.2.3
